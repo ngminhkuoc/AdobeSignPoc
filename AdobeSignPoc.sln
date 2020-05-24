@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdobeSign", "AdobeSign\AdobeSign.csproj", "{4C50540A-B484-48FF-9FCF-4BE97BD20607}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionApp", "AzureFunctionApp\AzureFunctionApp.csproj", "{32DFF66F-8C66-4E60-A0B2-87EF4E4E3D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C50540A-B484-48FF-9FCF-4BE97BD20607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C50540A-B484-48FF-9FCF-4BE97BD20607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C50540A-B484-48FF-9FCF-4BE97BD20607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C50540A-B484-48FF-9FCF-4BE97BD20607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DFF66F-8C66-4E60-A0B2-87EF4E4E3D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DFF66F-8C66-4E60-A0B2-87EF4E4E3D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DFF66F-8C66-4E60-A0B2-87EF4E4E3D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DFF66F-8C66-4E60-A0B2-87EF4E4E3D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902FD184-A0B2-461B-969C-0971EF2C7EC8}
+	EndGlobalSection
+EndGlobal
